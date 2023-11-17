@@ -1,14 +1,13 @@
-<h1>Claudia's Portfolio</h1> 
-<p>
-  This repository keeps track of all the projects I did while learning and all the certifications gained from freeCodeCamp.
-</p>
-<br>
 
-<h2>Projects</h2>
-<h3>Responsive Web Design</h3>
-  <ul>
-    <li>Survey Form</li>
-  </ul>
-<br>
+# Claudia's Portfolio
 
-<h2>Certifications</h2>
+This repository keeps track of all the projects I did while learning from freeCodeCamp and all the certifications.
+
+## Projects
+
+### Responsive Web Design
+
+1. Survey Form
+2. Tribute Page
+
+## Certifications
