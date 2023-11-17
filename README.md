@@ -5,7 +5,7 @@ This repository keeps track of all the projects I did while learning from freeCo
 
 ## Projects
 
-### Responsive Web Design
+### Responsive Web Design (HTML, CSS)
 
 1. Survey Form
 2. Tribute Page
