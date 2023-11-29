@@ -9,5 +9,6 @@ This repository keeps track of all the projects I did while learning from freeCo
 
 1. Survey Form
 2. Tribute Page
+3. Technical Documentation Page
 
 ## Certifications
